@@ -1,5 +1,5 @@
 # Mentoria2025
-## DiploDatos 2025 - Mentoría " Customi-zing offers: ¿Cómo clasifico a mis clientes? Machine Learning aplicado a un caso de negocio financiero"
+## DiploDatos 2025 - Mentoría " Customizing offers: ¿Cómo clasifico a mis clientes? Machine Learning aplicado a un caso de negocio financiero"
 
 En la actualidad donde la información abunda, las propuestas comerciales y las opciones de selección crecen exponencialmente, pensamos que en BANCOR es momento de adoptar un enfoque basado en la personalización de las ofertas comerciales para nuestra cartera de individuos.
 
