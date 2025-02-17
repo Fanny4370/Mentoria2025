@@ -6,7 +6,7 @@ En la actualidad donde la información abunda, las propuestas comerciales y las 
 Tendremos éxito en aquellos productos y servicios financieros que se adapten a cada cliente de manera efectiva y eficiente como así también en forma oportuna.
 La inteligencia artificial nos ayuda en este objetivo: procesando una gran cantidad de datos, mejorando así el grado de personalización de nuestras ofertas.
 
-A modo de ejemplo se puede considerar lo siguiente, si quisiéramos lanzar una campaña que ofreciera cuentas para menores, habríamos utilizado los datos disponibles en el banco para encontrar pistas que nos permitieran identificar públicos afines a ese producto. Podríamos haber buscado personas en el rango de edad de 20 a 40 años, con transacciones de pagos a  colegios, guarderías o actividades extraes-colares. Con esta información, habríamos configurado el público al que se dirigiría la oferta comercial. Para esta campaña, habríamos además generado un único mensaje publicitario.
+A modo de ejemplo se puede considerar lo siguiente, si quisiéramos lanzar una campaña que ofreciera cuentas para menores, habríamos utilizado los datos disponibles en el banco para encontrar pistas que nos permitieran identificar públicos afines a ese producto. Podríamos haber buscado personas en el rango de edad de 20 a 40 años, con transacciones de pagos a  colegios, guarderías o actividades extra escolares. Con esta información, habríamos configurado el público al que se dirigiría la oferta comercial. Para esta campaña, habríamos además generado un único mensaje publicitario.
 
 Ahora, proponemos para este set de datos, buscar los distintos perfiles de clientes para la muestra brin-dada para así ofrecer un portfolio de productos acorde a sus necesidades o preferencias.
 
