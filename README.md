@@ -8,11 +8,11 @@ La inteligencia artificial nos ayuda en este objetivo: procesando una gran canti
 
 A modo de ejemplo se puede considerar lo siguiente, si quisiéramos lanzar una campaña que ofreciera cuentas para menores, habríamos utilizado los datos disponibles en el banco para encontrar pistas que nos permitieran identificar públicos afines a ese producto. Podríamos haber buscado personas en el rango de edad de 20 a 40 años, con transacciones de pagos a  colegios, guarderías o actividades extra escolares. Con esta información, habríamos configurado el público al que se dirigiría la oferta comercial. Para esta campaña, habríamos además generado un único mensaje publicitario.
 
-Ahora, proponemos para este set de datos, buscar los distintos perfiles de clientes para la muestra brin-dada para así ofrecer un portfolio de productos acorde a sus necesidades o preferencias.
+Ahora, proponemos para este set de datos, buscar los distintos perfiles de clientes para la muestra brindada para así ofrecer un portfolio de productos acorde a sus necesidades o preferencias.
 
 En esta mentoria aprenderemos a utilizar el pipeline de aprendizaje automático paso a paso y esto es de gran importancia, dado que ya está comprobado que es aplicable a cualquier tema que nos interese.
 
-También se aprenderá a realizar análisis de variables para poder discernir cuales son las óptimas para el modelo  aplicar. Como así también conocer los distintos métodos para realizar un correcto balanceo de los datos.
+También se aprenderá a realizar análisis de variables para poder discernir cuales son las óptimas para el modelo  aplicar. Como así también aplicar los distintos modelos aprendidos para su segmentacion.
 
 Algo también a considerar es que se trabajara con datos reales de la entidad bancaria, y como sabemos, muchas veces los datos no están íntegros o bien relevados,  lo que nos pondrá en un gran desafío para su aplicabilidad en ciencia de datos. 
 
