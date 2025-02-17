@@ -14,7 +14,7 @@ En esta mentoria aprenderemos a utilizar el pipeline de aprendizaje automático 
 
 También se aprenderá a realizar análisis de variables para poder discernir cuales son las óptimas para el modelo  aplicar. Como así también conocer los distintos métodos para realizar un correcto balanceo de los datos.
 
-Algo también a considerar es que se trabajara con datos reales de la entidad bancaria, y como sabemos, muchas veces los datos no están íntegros o bien relevados,  lo que nos pondrá en un gran desafío para su aplicabilidad en ciencia de datos.  
+Algo también a considerar es que se trabajara con datos reales de la entidad bancaria, y como sabemos, muchas veces los datos no están íntegros o bien relevados,  lo que nos pondrá en un gran desafío para su aplicabilidad en ciencia de datos. 
 
 ### Datos
 El set de datos de la entidad bancaria, es una muestra aleatoria que representa el comportamiento de los clientes, obtenida del mes de noviembre 2024,  los cuales los podemos dividir en 3 secciones: 
@@ -27,3 +27,4 @@ conjunto de 11 variables que informa la cantidad de transacciones realizadas en 
 #### Información sobre Montos Totales de Transacciones Realizadas: 
 conjunto de 73 variables que informa el monto total de importes por cada transaccionalidad realizada, se aclara que dicha transaccionalidad ha sido agrupada bajo un criterio definido. 
 
+Para ver la descripcion de cada columna se puede consultar el excel DescripcionDataSet.xlsx.
