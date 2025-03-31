@@ -17,14 +17,14 @@ También se aprenderá a realizar análisis de variables para poder discernir cu
 Algo también a considerar es que se trabajara con datos reales de la entidad bancaria, y como sabemos, muchas veces los datos no están íntegros o bien relevados,  lo que nos pondrá en un gran desafío para su aplicabilidad en ciencia de datos. 
 
 ### Datos
-El set de datos de la entidad bancaria, es una muestra aleatoria que representa el comportamiento de los clientes, obtenida del mes de noviembre 2024,  los cuales los podemos dividir en 3 secciones: 
+El set de datos de la entidad bancaria, es una muestra aleatoria que representa el comportamiento de los clientes, obtenida del los ultimos 3 años,  los cuales los podemos dividir en 3 secciones: 
 
 #### Información sobre Datos del cliente: 
-conjunto de 41 variables que informan datos personales del cliente y datos de los distintos productos que ya tiene el cliente.
+conjunto de 36 variables que informan datos personales del cliente y datos de los distintos productos que ya tiene el cliente.
 
 #### Información sobre Cantidad de Transaccionalidad Realizada: 
-conjunto de 11 variables que informa la cantidad de transacciones realizadas en el mes bajo estudio. Dichas transacciones han sido agrupadas bajo un criterio definido.
+conjunto de 30 variables que informa la cantidad de transacciones realizadas en el mes bajo estudio. Dichas transacciones han sido agrupadas bajo un criterio definido.
 #### Información sobre Montos Totales de Transacciones Realizadas: 
-conjunto de 73 variables que informa el monto total de importes por cada transaccionalidad realizada, se aclara que dicha transaccionalidad ha sido agrupada bajo un criterio definido. 
+conjunto de 30 variables que informa el monto total de importes por cada transaccionalidad realizada, se aclara que dicha transaccionalidad ha sido agrupada bajo un criterio definido. 
 
-Para ver la descripcion de cada columna se puede consultar el excel DescripcionDataSet.xlsx.
+Para ver la descripcion de cada columna como asi tambien el agrupamiento definido se puede consultar el excel DescripcionDataSet.xlsx.
