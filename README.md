@@ -1,7 +1,7 @@
 # Mentoria2025
 ## DiploDatos 2025 - Mentoría " Customizing offers: ¿Cómo clasifico a mis clientes? Machine Learning aplicado a un caso de negocio financiero"
 
-En la actualidad donde la información abunda, las propuestas comerciales y las opciones de selección crecen exponencialmente, pensamos que en BANCOR es momento de adoptar un enfoque basado en la personalización de las ofertas comerciales para nuestra cartera de individuos.
+En la actualidad donde la información abunda, las propuestas comerciales y las opciones de selección crecen exponencialmente, en nuestro banco, pensamos que es momento de adoptar un enfoque basado en la personalización de las ofertas comerciales para nuestra cartera de individuos.
 
 Tendremos éxito en aquellos productos y servicios financieros que se adapten a cada cliente de manera efectiva y eficiente como así también en forma oportuna.
 La inteligencia artificial nos ayuda en este objetivo: procesando una gran cantidad de datos, mejorando así el grado de personalización de nuestras ofertas.
